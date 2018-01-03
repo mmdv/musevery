@@ -10,3 +10,8 @@ div {
 	margin: 15% auto;
 	/*background: rgba(0,0,0,0.4);*/
 }
+
+/*下一曲*/
+h3 {
+	cursor: pointer ;
+}
